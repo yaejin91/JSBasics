@@ -6,3 +6,6 @@
 
 //First, get the character code of the letters and add 1.
 
+//For n < 26, if you add 97 to n, it's lower case. 65 to uppercase.
+//Example: n = 65 for 'A'
+
